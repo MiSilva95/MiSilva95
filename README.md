@@ -20,12 +20,16 @@
 <div style="display: inline_block"><br/>
   <img aling="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img aling="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img aling="center" alt="ORACLE" src="https://img.shields.io/badge/OutSystems-F80000?style=for-the-badge&logo=OutSystems&logoColor=white"/>
   <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img aling="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img aling="center" alt="C" img src="https://img.shields.io/badge/C-purple?style=for-the-badge">
+  <img aling="center" alt="C" img src="https://img.shields.io/badge/C-purple?style=for-the-badge">  
+  <img aling="center" alt="OutSystems" src="https://img.shields.io/badge/OutSystems-F80000?style=for-the-badge&logo=OutSystems&logoColor=white"/>
 </div><br/>
 
-<img aling="center" width="530em" src="https://github-readme-stats.vercel.app/api?username=MiSilva95&show_icons=true&theme=dracula" alt="MicheleSilva's stats"/>
-<img aling="center" width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiSilva95&layout=compact&theme=dracula" alt="MicheleSIlva's most languages"/>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiSilva95&layout=compact&theme=dark" height="150" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MiSilva95&show_icons=true&theme=dark" height="150" alt="GitHub Stats"/>
+
+</div>
