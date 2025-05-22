@@ -1,4 +1,4 @@
-### Olá! Eu sou o Michele Silva 👋
+### Olá! Eu sou a Michele 👋
 
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=MiSilva95&show_icons=true&theme=dracula" alt="MicheleSilva's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiSilva95&layout=compact&theme=dracula" alt="MicheleSIlva's most languages"/>
@@ -10,8 +10,7 @@
 - 🌍 **Idiomas**: Português (nativo) | Inglês (básico) | Espanhol (básico)
 
 ## 📫 Contato
-<div align="center">
-<a href="https://www.linkedin.com/in/michele-silva-930881118" target="_blank">
+<a aling="center" href="https://www.linkedin.com/in/michele-silva-930881118" target="_blank">
   <img
     aling="center"
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -19,15 +18,13 @@
   />
 </a>
 
-<a href="mailto:michelesilva344@gmail.com" target="_blank">
+<a aling="center" href="mailto:michelesilva344@gmail.com" target="_blank">
   <img
     aling="center"
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Gmail"
   />
 </a>
-</div>
-
 
 ## 🛠️ Tecnologias e Ferramentas
 
