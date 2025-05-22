@@ -4,7 +4,7 @@
 
 - 🎓 **Formação**: Ciências Contábeis | MBA em Controladoria e Finanças
 - 💻 **Cursando**: Análise e Desenvolvimento de Sistemas | Engenharia de Software
-- 🌍 **Idiomas**: Português (nativo) | Inglês (básico) | Espanhol (básico)
+- 🌍 **Idiomas**: Português (Nativo) | Inglês (Básico) | Espanhol (Básico)
 
 ## 📫 Contato
 <a aling="center" href="https://www.linkedin.com/in/michele-silva-930881118" target="_blank">
